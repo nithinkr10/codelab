@@ -6,7 +6,7 @@ The most important feature of Codelab is AI Integration in it, which provides th
 
 ## Demo
 
-You can see video demo here - [Demo Video](https://youtu.be/7SDjIXXbKgU)
+You can see video demo here - [Demo Video](https://youtu.be/wnxLdkHlT0s?feature=shared)
 
 ## Live Preview
 
@@ -33,4 +33,4 @@ This will start the development server at `http://127.0.0.1:5173/`
 
 Contributions to this project are always welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
 
-### Show ❤️ by a 🌟 to this repository.
+## nithin k r
